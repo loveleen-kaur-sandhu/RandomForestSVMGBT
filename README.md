@@ -1,4 +1,4 @@
-# RandomForestSVMGBT
+# Stock Market Prediction Classifier
 
 ## Project Title
 
