@@ -36,4 +36,8 @@ Source: Raw values of the S&P 500 were obtained from Yahoo Finance and then conv
 
 ## Results
 
-The analysis reveals insights into the predictive performance of different classification methods and the impact of feature selection techniques on model accuracy and interpretability.
+The analysis reveals insights into the predictive performance of different classification methods and the impact of feature selection techniques on model accuracy and interoperability.
+
+## Author
+Loveleen Kaur
+
