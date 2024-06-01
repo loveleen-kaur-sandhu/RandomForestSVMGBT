@@ -6,7 +6,7 @@ Stock Market Analysis with Classification Methods and Feature Selection
 
 ## Overview
 
-This project applies various classification methods to analyze a stock market dataset and performs feature selection using iterative methods and PCA.
+This project applies various classification methods to analyze a stock market dataset and performs feature selection using different iterative methods and PCA.
 
 ## Key Components
 
@@ -24,7 +24,7 @@ This project applies various classification methods to analyze a stock market da
 The dataset contains the weekly percentage returns for the S&P 500 stock index between 1990 and 2010. The following is the description of the variables:
 
 Year: The year that the observation was recorded
-Lag1: Percentage return for previous week
+Lag1: Percentage return for the previous week
 Lag2: Percentage return for 2 weeks previous
 Lag3: Percentage return for 3 weeks previous
 Lag4: Percentage return for 4 weeks previous
